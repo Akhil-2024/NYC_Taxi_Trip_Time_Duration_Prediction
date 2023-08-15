@@ -9,10 +9,14 @@ Kaggle : https://www.kaggle.com/c/nyc-taxi-trip-duration/data
 
 Download Data : https://drive.google.com/open?id=1OyOC9y2x4uyT7drXJBOEZ2yRBktiQB8H
 
+
+
 # Details:
 File descriptions :
 
 ● train.csv - the dataset (contains 1458644 trip records)
+
+
 #Data fields
 id: Unique trip identifier.
 vendor_id: Code depicting trip record provider.
@@ -25,6 +29,8 @@ dropoff_longitude: Longitude at meter disengagement.
 dropoff_latitude: Latitude at meter disengagement.
 store_and_fwd_flag: Flag indicating memory storage in case of no server connection (Y=store and forward, N=not).
 trip_duration: Trip duration in seconds.
+
+
 
 #Objective: 
 Analyze these attributes to predict trip durations accurately.
