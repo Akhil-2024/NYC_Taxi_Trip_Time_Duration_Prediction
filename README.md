@@ -17,7 +17,8 @@ File descriptions :
 ● train.csv - the dataset (contains 1458644 trip records)
 
 
-#Data fields
+# Data fields
+
 id: Unique trip identifier.
 vendor_id: Code depicting trip record provider.
 pickup_datetime: Date and time of meter engagement.
@@ -32,5 +33,5 @@ trip_duration: Trip duration in seconds.
 
 
 
-#Objective: 
+# Objective: 
 Analyze these attributes to predict trip durations accurately.
